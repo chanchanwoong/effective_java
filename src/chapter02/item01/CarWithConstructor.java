@@ -1,4 +1,4 @@
-package chapter02;
+package chapter02.item01;
 
 public class CarWithConstructor {
 
